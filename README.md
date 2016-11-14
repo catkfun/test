@@ -13,3 +13,5 @@ test1.c
 server
 
 client
+
+server add 2
