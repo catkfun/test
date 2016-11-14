@@ -1,7 +1,7 @@
-README
-test
+# 一级目标
 
+## hello world
 
-test
-
-test2
+./configure
+make
+sudo make install
