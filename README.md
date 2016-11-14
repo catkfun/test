@@ -8,3 +8,6 @@ sudo make install
 
 
 test1.c
+
+
+server
